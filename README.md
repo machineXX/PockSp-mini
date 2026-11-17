@@ -12,7 +12,7 @@
 
 ## V33 前置传感器外壳
 
-- [前壳 STL](./V33_front_shell.stl) · [后壳 STL](./V33_rear_shell.stl) · [打印说明](./打印说明_V33.txt)
+- [前壳 STL](./V33_front_shell.stl) · [后壳 STL](./V33_rear_shell.stl) · [V27 按键帽 STL](./V27_push_button.stl) · [打印说明](./打印说明_V33.txt)
 
 前后壳各打印一件。模型单位为毫米，按 100% 导入。继续使用 V27 按钮帽。切片使用 0.4 mm 喷嘴、0.1 mm 层高和自动支撑验证，实物安装待首件试配。
 
